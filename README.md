@@ -1,5 +1,5 @@
-#Meteo Italia ☻
-▀▀[Sito](www.valerioboi.com)▀▀
+# Meteo Italia ☻
+▀▀ [Sito Web](www.valerioboi.com)  ▀▀
 
 Librerie usate: 
 | n. | Nome | Link | 
