@@ -25,7 +25,7 @@ Visual studio Code will open there.
 - and finally always from the terminal type npm start to start the application
 
 
-Librerie usate: 
+# Librerie usate: 
 | n. | Nome | Link | 
 | ---| ---  | ---  |
 | 1  | react-bootstrap |[Bootstrap React](https://react-bootstrap.github.io/getting-started/introduction) | 
