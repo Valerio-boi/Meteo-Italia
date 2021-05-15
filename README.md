@@ -1,5 +1,29 @@
 # Meteo Italia ☻
-▀▀ [Sito Web](https://www.valerioboi.com/)  ▀▀
+
+![Project img](https://github.com/Valerio-boi/Meteo-italia/blob/main/Meteo.png)
+
+<h1>What's this</h1>
+
+> What will it ever be? :open_hands:
+> yes a fantastic app, of course :unamused:
+> which can be used to keep you updated on the current weather in your area.
+> uh yes I know you just need to go out :worried:
+
+<h1>
+How to start it and view the code
+</h1>
+
+> to be able to view the code you just need to clone the project in this way:
+
+- via bash type git clone https://github.com/Valerio-boi/Meteo-Italia.git
+
+- using the cd command move to the folder where the .git is and type code.
+Visual studio Code will open there.
+
+- Once inside Visual studio Code you can open a new terminal and type npm i or npm install to install the project dependencies.
+
+- and finally always from the terminal type npm start to start the application
+
 
 Librerie usate: 
 | n. | Nome | Link | 
